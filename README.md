@@ -1,7 +1,7 @@
 # Friends Graph Generator
 Создай схему взаимоотношений всех своих друзей!
 
-<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/849cf384-b3f6-4f87-ad44-630a5e451490" />
+<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/9c452078-41cc-456b-822d-1657636b38ae" />
 
 **Python-скрипт для визуализации взаимоотношений всех своих друзей с кастомизацией и импортом/экспортом своего проекта!**
 
